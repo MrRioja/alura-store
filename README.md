@@ -16,8 +16,6 @@
   <a href="#autor">Autor</a>  
 </p>
 
-<br><br><br>
-
 ## Sobre
 
 Projeto desenvolvido durante o curso de CSS Grid da Alura.
@@ -53,7 +51,7 @@ $ cd alura-store
 
 <img align="left" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" alt="Logo do HTML5, CSS3 e Javascript" height="100" />
 
-<br><br><br>
+<br><br><br><br>
 
 ## Autor
 
