@@ -1,7 +1,7 @@
 # Alura Store
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=APP&message=NAME&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=Alura&message=Store&color=blueviolet&style=for-the-badge"/>
   <img src="https://img.shields.io/github/license/MrRioja/alura-store?color=blueviolet&logo=License&style=for-the-badge"/>
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MrRioja/alura-store?color=blueviolet&logo=html5&logoColor=white&style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MrRioja/alura-store?color=blueviolet&style=for-the-badge">
